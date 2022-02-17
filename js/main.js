@@ -35,3 +35,24 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 /*================= Accordion skills =================*/
 
 /*================= Qualification tabs =================*/
+
+
+/*==================== SERVICES MODAL ====================*/
+
+
+/*==================== PORTFOLIO SWIPER  ====================*/
+
+
+/*==================== TESTIMONIAL ====================*/
+
+
+/*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
+
+
+/*==================== CHANGE BACKGROUND HEADER ====================*/ 
+
+
+/*==================== SHOW SCROLL UP ====================*/ 
+
+
+/*==================== DARK LIGHT THEME ====================*/ 
