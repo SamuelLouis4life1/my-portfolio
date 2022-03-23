@@ -804,7 +804,7 @@ about_img{
 .testimonial_img{
     width: 60px;
     height: 60px;
-    border-radius: 50px;
+    border-radius: 50%;
     margin-right: var(--mb-0-75);
 }
 
@@ -818,11 +818,11 @@ about_img{
     color: var(--text-color-light);
 }
 
-testimonial_description{
+.testimonial_description{
     margin-bottom: var(--mb-2-5);
 }
 
-.testimonial_icon{
+.testimonial_icon-star{
     color: var(--first-color);
 }
 
@@ -830,11 +830,16 @@ testimonial_description{
     bottom: 0;
 }
 
-
+.testimonial_container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
 /*==================== CONTACT ME ====================*/
 
 
 /*==================== FOOTER ====================*/
+
 
 
 /*========== SCROLL UP ==========*/
